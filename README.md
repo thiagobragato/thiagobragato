@@ -1,6 +1,6 @@
 - 🔭 Atualmente estou trabalhando como atendente.
 - 🌱 Atualmente estou aprendendo JS.
-- 📫 Como entrar em contato comigo: bragatto11k@gmail.com
+- 📫 Como entrar em contato comigo: thiagorbragato2000@gmail.com
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
