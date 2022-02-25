@@ -20,7 +20,7 @@
 ##
 
 <div>
-	<a href="thiagorbragato2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+	<a href="mailto:thiagorbragato2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 	<a href="https://www.linkedin.com/in/thiago-rodrigues-bragato-590b53123" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	<a href="https://www.instagram.com/thiago_bragato/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>	</a>
 </div>
