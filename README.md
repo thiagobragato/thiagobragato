@@ -1,4 +1,4 @@
-- 🔭 Atualmente estou trabalhando como atendente.
+- 🔭 Atualmente estou trabalhando como atendente em Top Ferramentas.
 - 🌱 Atualmente estou aprendendo JS.
 - 📫 Como entrar em contato comigo: thiagorbragato2000@gmail.com
 <div>
